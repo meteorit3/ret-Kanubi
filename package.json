@@ -1,0 +1,23 @@
+{
+  "name": "ret-kanubi",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kamacit3/ret-Kanubi.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kamacit3/ret-Kanubi/issues"
+  },
+  "homepage": "https://github.com/kamacit3/ret-Kanubi#readme",
+  "dependencies": {
+    "@dendronhq/dendron-cli": "^0.81.0"
+  }
+}
