@@ -2,7 +2,7 @@
 id: iUtvyfekGiwqYwk9bIK3a
 title: mi
 desc: ''
-updated: 1644826656867
+updated: 1644865733306
 created: 1644818867581
 ---
 [ mi ]<br>
@@ -10,4 +10,4 @@ created: 1644818867581
 
 first person pronoun, marker of possession
 
-<span style="color:gray">Esperanto<br>*mi* ‘I, me’ ← Romance m- ‘(1st person singular oblique)’</span>
+<span style="color:gray">Hungarian<br>*mi* ‘we’ first person plural pronoun</span>

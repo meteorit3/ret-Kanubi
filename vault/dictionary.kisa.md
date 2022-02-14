@@ -1,15 +1,16 @@
 ---
 id: KufrdCrrVh4qHTEblTuQi
-title: Kisse
+title: Kisa
 desc: ''
-updated: 1644861434609
+updated: 1644865736953
 created: 1644861034380
 ---
 
-[ ki.se ]<br>
+[ kis ]<br>
 *content*
 
-kity cat kitty cute cat purr
+kity cat kitty cute cat purr  
+>mia kisa retum Kanubi ret
 
 <span style="color:gray">Finnish<br>*kissa* 'cat'</span>
 
