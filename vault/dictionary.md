@@ -2,10 +2,10 @@
 id: fw3wnN8HzB0WI2ZBQ4Rdr
 title: Dictionary
 desc: ''
-updated: 1644865734521
+updated: 1644868408417
 created: 1644815593550
 ---
-
+- [[dictionary.gualberto]]: mustache
 - [[dictionary.Kanubi]]: relating to or of the language *ret Kanubi* 
 - [[dictionary.kisa]]: kitty cat kity gat
 - [[dictionary.ko]]: little
