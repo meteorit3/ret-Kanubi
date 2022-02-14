@@ -2,7 +2,7 @@
 id: vFuUGBQdqMq0TLu44Kj0W
 title: Grammar
 desc: ''
-updated: 1644865813602
+updated: 1644867585697
 created: 1644815749622
 ---
 
@@ -17,7 +17,7 @@ instead of proper nouns, ret Kanubi uses a proper adjective system, with names m
 because reta Kanubi uses content words that can be used in multiple contexts as nouns, verbs, or adjectives, it has suffixes that denote the case of the word.   
 suffixes for for nominative and accusative and verb and prepositional phrase  
 if the word already ends with that sound then it is replaced with the second sound. for example, kisa in the nominative case becomes kisata, or 
-- nominative: a, ta
+- nominative: o, to
 - accusative, ev, eva
 - verb: i, si
 - preposition: ec, eca
