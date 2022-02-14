@@ -2,7 +2,7 @@
 id: KufrdCrrVh4qHTEblTuQi
 title: Kisa
 desc: ''
-updated: 1644867749668
+updated: 1644868075463
 created: 1644861034380
 ---
 
@@ -10,7 +10,7 @@ created: 1644861034380
 *content*
 
 kity cat kitty cute cat purr  
->mio kisato retev Kanubi reti
+>mio kisao retev Kanubi reti
 
 <span style="color:gray">Finnish<br>*kissa* 'cat'</span>
 
