@@ -1,0 +1,869 @@
+{
+  "notes": {
+    "403": {
+      "vault": {
+        "fsPath": "vault"
+      },
+      "fname": "403",
+      "id": "403",
+      "title": "This page has not yet sprouted",
+      "schemaStub": false,
+      "type": "note",
+      "updated": 1644839270722,
+      "created": 1644839270722,
+      "desc": "",
+      "links": [],
+      "anchors": {},
+      "children": [],
+      "parent": null,
+      "data": {}
+    },
+    "7x4DWqH12Y6dNpZKJSyEH": {
+      "id": "7x4DWqH12Y6dNpZKJSyEH",
+      "title": "ret kanubi",
+      "desc": "",
+      "updated": 1644829216140,
+      "created": 1644808011856,
+      "custom": {
+        "nav_order": 0,
+        "permalink": "/"
+      },
+      "fname": "root",
+      "type": "note",
+      "vault": {
+        "fsPath": "vault"
+      },
+      "contentHash": "6cb49ffe43cb2725c13f19a6fa372de6",
+      "links": [
+        {
+          "type": "wiki",
+          "from": {
+            "fname": "root",
+            "id": "7x4DWqH12Y6dNpZKJSyEH",
+            "vaultName": "vault"
+          },
+          "value": "grammar",
+          "alias": "grammar",
+          "position": {
+            "start": {
+              "line": 6,
+              "column": 5,
+              "offset": 50
+            },
+            "end": {
+              "line": 6,
+              "column": 16,
+              "offset": 61
+            },
+            "indent": []
+          },
+          "xvault": false,
+          "sameFile": false,
+          "to": {
+            "fname": "grammar"
+          }
+        },
+        {
+          "type": "wiki",
+          "from": {
+            "fname": "root",
+            "id": "7x4DWqH12Y6dNpZKJSyEH",
+            "vaultName": "vault"
+          },
+          "value": "dictionary",
+          "alias": "dictionary",
+          "position": {
+            "start": {
+              "line": 8,
+              "column": 5,
+              "offset": 67
+            },
+            "end": {
+              "line": 8,
+              "column": 19,
+              "offset": 81
+            },
+            "indent": []
+          },
+          "xvault": false,
+          "sameFile": false,
+          "to": {
+            "fname": "dictionary"
+          }
+        },
+        {
+          "type": "wiki",
+          "from": {
+            "fname": "root",
+            "id": "7x4DWqH12Y6dNpZKJSyEH",
+            "vaultName": "vault"
+          },
+          "value": "phonology-and-phonotactics",
+          "alias": "phonology-and-phonotactics",
+          "position": {
+            "start": {
+              "line": 10,
+              "column": 5,
+              "offset": 87
+            },
+            "end": {
+              "line": 10,
+              "column": 35,
+              "offset": 117
+            },
+            "indent": []
+          },
+          "xvault": false,
+          "sameFile": false,
+          "to": {
+            "fname": "phonology-and-phonotactics"
+          }
+        }
+      ],
+      "anchors": {
+        "grammar": {
+          "type": "header",
+          "text": "grammar",
+          "value": "grammar",
+          "line": 12,
+          "column": 0,
+          "depth": 3
+        },
+        "dictionary": {
+          "type": "header",
+          "text": "dictionary",
+          "value": "dictionary",
+          "line": 14,
+          "column": 0,
+          "depth": 3
+        },
+        "phonology-and-phonotactics": {
+          "type": "header",
+          "text": "phonology-and-phonotactics",
+          "value": "phonology-and-phonotactics",
+          "line": 16,
+          "column": 0,
+          "depth": 3
+        }
+      },
+      "children": [
+        "fw3wnN8HzB0WI2ZBQ4Rdr",
+        "vFuUGBQdqMq0TLu44Kj0W",
+        "0cNyiyRxRIXqhbZ0DFUDa"
+      ],
+      "parent": null,
+      "data": {}
+    },
+    "0cNyiyRxRIXqhbZ0DFUDa": {
+      "id": "0cNyiyRxRIXqhbZ0DFUDa",
+      "title": "Phonology and Phonotactics",
+      "desc": "",
+      "updated": 1644830318525,
+      "created": 1644827946699,
+      "custom": {},
+      "fname": "phonology-and-phonotactics",
+      "type": "note",
+      "vault": {
+        "fsPath": "vault"
+      },
+      "contentHash": "5dbae7ba5e9b7876e85e922245c7f357",
+      "links": [
+        {
+          "from": {
+            "fname": "root",
+            "vaultName": "vault"
+          },
+          "type": "backlink",
+          "position": {
+            "start": {
+              "line": 10,
+              "column": 5,
+              "offset": 87
+            },
+            "end": {
+              "line": 10,
+              "column": 35,
+              "offset": 117
+            },
+            "indent": []
+          },
+          "value": "phonology-and-phonotactics",
+          "alias": "phonology-and-phonotactics"
+        }
+      ],
+      "anchors": {
+        "consonant-structure": {
+          "type": "header",
+          "text": "consonant structure",
+          "value": "consonant-structure",
+          "line": 25,
+          "column": 0,
+          "depth": 4
+        }
+      },
+      "children": [],
+      "parent": "7x4DWqH12Y6dNpZKJSyEH",
+      "data": {}
+    },
+    "vFuUGBQdqMq0TLu44Kj0W": {
+      "id": "vFuUGBQdqMq0TLu44Kj0W",
+      "title": "Grammar",
+      "desc": "",
+      "updated": 1644827926211,
+      "created": 1644815749622,
+      "custom": {},
+      "fname": "grammar",
+      "type": "note",
+      "vault": {
+        "fsPath": "vault"
+      },
+      "contentHash": "1ba4f39cc764a6525fddab5b87179c6b",
+      "links": [
+        {
+          "from": {
+            "fname": "root",
+            "vaultName": "vault"
+          },
+          "type": "backlink",
+          "position": {
+            "start": {
+              "line": 6,
+              "column": 5,
+              "offset": 50
+            },
+            "end": {
+              "line": 6,
+              "column": 16,
+              "offset": 61
+            },
+            "indent": []
+          },
+          "value": "grammar",
+          "alias": "grammar"
+        }
+      ],
+      "anchors": {
+        "word-order": {
+          "type": "header",
+          "text": "word order",
+          "value": "word-order",
+          "line": 9,
+          "column": 0,
+          "depth": 4
+        },
+        "proper-adjectives": {
+          "type": "header",
+          "text": "proper adjectives",
+          "value": "proper-adjectives",
+          "line": 13,
+          "column": 0,
+          "depth": 4
+        },
+        "noun-case": {
+          "type": "header",
+          "text": "noun case",
+          "value": "noun-case",
+          "line": 16,
+          "column": 0,
+          "depth": 4
+        }
+      },
+      "children": [],
+      "parent": "7x4DWqH12Y6dNpZKJSyEH",
+      "data": {}
+    },
+    "fw3wnN8HzB0WI2ZBQ4Rdr": {
+      "id": "fw3wnN8HzB0WI2ZBQ4Rdr",
+      "title": "Dictionary",
+      "desc": "",
+      "updated": 1644827139432,
+      "created": 1644815593550,
+      "custom": {},
+      "fname": "dictionary",
+      "type": "note",
+      "vault": {
+        "fsPath": "vault"
+      },
+      "contentHash": "be01aa55f83ac9f9b8e378c2e1191833",
+      "links": [
+        {
+          "type": "wiki",
+          "from": {
+            "fname": "dictionary",
+            "id": "fw3wnN8HzB0WI2ZBQ4Rdr",
+            "vaultName": "vault"
+          },
+          "value": "dictionary.Kanubi",
+          "alias": "dictionary.Kanubi",
+          "position": {
+            "start": {
+              "line": 2,
+              "column": 3,
+              "offset": 3
+            },
+            "end": {
+              "line": 2,
+              "column": 24,
+              "offset": 24
+            },
+            "indent": []
+          },
+          "xvault": false,
+          "sameFile": false,
+          "to": {
+            "fname": "dictionary.Kanubi"
+          }
+        },
+        {
+          "type": "wiki",
+          "from": {
+            "fname": "dictionary",
+            "id": "fw3wnN8HzB0WI2ZBQ4Rdr",
+            "vaultName": "vault"
+          },
+          "value": "dictionary.mi",
+          "alias": "dictionary.mi",
+          "position": {
+            "start": {
+              "line": 3,
+              "column": 3,
+              "offset": 73
+            },
+            "end": {
+              "line": 3,
+              "column": 20,
+              "offset": 90
+            },
+            "indent": []
+          },
+          "xvault": false,
+          "sameFile": false,
+          "to": {
+            "fname": "dictionary.mi"
+          }
+        },
+        {
+          "type": "wiki",
+          "from": {
+            "fname": "dictionary",
+            "id": "fw3wnN8HzB0WI2ZBQ4Rdr",
+            "vaultName": "vault"
+          },
+          "value": "dictionary.ret",
+          "alias": "dictionary.ret",
+          "position": {
+            "start": {
+              "line": 4,
+              "column": 3,
+              "offset": 133
+            },
+            "end": {
+              "line": 4,
+              "column": 21,
+              "offset": 151
+            },
+            "indent": []
+          },
+          "xvault": false,
+          "sameFile": false,
+          "to": {
+            "fname": "dictionary.ret"
+          }
+        },
+        {
+          "type": "wiki",
+          "from": {
+            "fname": "dictionary",
+            "id": "fw3wnN8HzB0WI2ZBQ4Rdr",
+            "vaultName": "vault"
+          },
+          "value": "dictionary.thirdpersonpronoun",
+          "alias": "dictionary.thirdpersonpronoun",
+          "position": {
+            "start": {
+              "line": 5,
+              "column": 3,
+              "offset": 172
+            },
+            "end": {
+              "line": 5,
+              "column": 36,
+              "offset": 205
+            },
+            "indent": []
+          },
+          "xvault": false,
+          "sameFile": false,
+          "to": {
+            "fname": "dictionary.thirdpersonpronoun"
+          }
+        },
+        {
+          "type": "wiki",
+          "from": {
+            "fname": "dictionary",
+            "id": "fw3wnN8HzB0WI2ZBQ4Rdr",
+            "vaultName": "vault"
+          },
+          "value": "dictionary.imperative",
+          "alias": "dictionary.imperative",
+          "position": {
+            "start": {
+              "line": 6,
+              "column": 3,
+              "offset": 260
+            },
+            "end": {
+              "line": 6,
+              "column": 28,
+              "offset": 285
+            },
+            "indent": []
+          },
+          "xvault": false,
+          "sameFile": false,
+          "to": {
+            "fname": "dictionary.imperative"
+          }
+        },
+        {
+          "from": {
+            "fname": "root",
+            "vaultName": "vault"
+          },
+          "type": "backlink",
+          "position": {
+            "start": {
+              "line": 8,
+              "column": 5,
+              "offset": 67
+            },
+            "end": {
+              "line": 8,
+              "column": 19,
+              "offset": 81
+            },
+            "indent": []
+          },
+          "value": "dictionary",
+          "alias": "dictionary"
+        }
+      ],
+      "anchors": {},
+      "children": [
+        "qak7ijHHerYMi9h3jwY3U",
+        "iUtvyfekGiwqYwk9bIK3a",
+        "QtfXNYV1573OELNVIk19e"
+      ],
+      "parent": "7x4DWqH12Y6dNpZKJSyEH",
+      "data": {}
+    },
+    "QtfXNYV1573OELNVIk19e": {
+      "id": "QtfXNYV1573OELNVIk19e",
+      "title": "ret",
+      "desc": "",
+      "updated": 1644826667980,
+      "created": 1644815627196,
+      "custom": {},
+      "fname": "dictionary.ret",
+      "type": "note",
+      "vault": {
+        "fsPath": "vault"
+      },
+      "contentHash": "604e21400d94c8bee6be59c580599c06",
+      "links": [
+        {
+          "from": {
+            "fname": "dictionary",
+            "vaultName": "vault"
+          },
+          "type": "backlink",
+          "position": {
+            "start": {
+              "line": 4,
+              "column": 3,
+              "offset": 133
+            },
+            "end": {
+              "line": 4,
+              "column": 21,
+              "offset": 151
+            },
+            "indent": []
+          },
+          "value": "dictionary.ret",
+          "alias": "dictionary.ret"
+        }
+      ],
+      "anchors": {},
+      "children": [],
+      "parent": "fw3wnN8HzB0WI2ZBQ4Rdr",
+      "data": {}
+    },
+    "iUtvyfekGiwqYwk9bIK3a": {
+      "id": "iUtvyfekGiwqYwk9bIK3a",
+      "title": "mi",
+      "desc": "",
+      "updated": 1644826656867,
+      "created": 1644818867581,
+      "custom": {},
+      "fname": "dictionary.mi",
+      "type": "note",
+      "vault": {
+        "fsPath": "vault"
+      },
+      "contentHash": "b43c3b85f34b27a3954728e7ad2bfb04",
+      "links": [
+        {
+          "from": {
+            "fname": "dictionary",
+            "vaultName": "vault"
+          },
+          "type": "backlink",
+          "position": {
+            "start": {
+              "line": 3,
+              "column": 3,
+              "offset": 73
+            },
+            "end": {
+              "line": 3,
+              "column": 20,
+              "offset": 90
+            },
+            "indent": []
+          },
+          "value": "dictionary.mi",
+          "alias": "dictionary.mi"
+        }
+      ],
+      "anchors": {},
+      "children": [],
+      "parent": "fw3wnN8HzB0WI2ZBQ4Rdr",
+      "data": {}
+    },
+    "qak7ijHHerYMi9h3jwY3U": {
+      "id": "qak7ijHHerYMi9h3jwY3U",
+      "title": "Kanubi",
+      "desc": "",
+      "updated": 1644826787189,
+      "created": 1644817846829,
+      "custom": {},
+      "fname": "dictionary.kanubi",
+      "type": "note",
+      "vault": {
+        "fsPath": "vault"
+      },
+      "contentHash": "884930674da05f969a079d58325cc76b",
+      "links": [
+        {
+          "from": {
+            "fname": "dictionary",
+            "vaultName": "vault"
+          },
+          "type": "backlink",
+          "position": {
+            "start": {
+              "line": 2,
+              "column": 3,
+              "offset": 3
+            },
+            "end": {
+              "line": 2,
+              "column": 24,
+              "offset": 24
+            },
+            "indent": []
+          },
+          "value": "dictionary.Kanubi",
+          "alias": "dictionary.Kanubi"
+        }
+      ],
+      "anchors": {},
+      "children": [],
+      "parent": "fw3wnN8HzB0WI2ZBQ4Rdr",
+      "data": {}
+    }
+  },
+  "domains": [
+    {
+      "id": "7x4DWqH12Y6dNpZKJSyEH",
+      "title": "ret kanubi",
+      "desc": "",
+      "updated": 1644829216140,
+      "created": 1644808011856,
+      "custom": {
+        "nav_order": 0,
+        "permalink": "/"
+      },
+      "fname": "root",
+      "type": "note",
+      "vault": {
+        "fsPath": "vault"
+      },
+      "contentHash": "6cb49ffe43cb2725c13f19a6fa372de6",
+      "links": [
+        {
+          "type": "wiki",
+          "from": {
+            "fname": "root",
+            "id": "7x4DWqH12Y6dNpZKJSyEH",
+            "vaultName": "vault"
+          },
+          "value": "grammar",
+          "alias": "grammar",
+          "position": {
+            "start": {
+              "line": 6,
+              "column": 5,
+              "offset": 50
+            },
+            "end": {
+              "line": 6,
+              "column": 16,
+              "offset": 61
+            },
+            "indent": []
+          },
+          "xvault": false,
+          "sameFile": false,
+          "to": {
+            "fname": "grammar"
+          }
+        },
+        {
+          "type": "wiki",
+          "from": {
+            "fname": "root",
+            "id": "7x4DWqH12Y6dNpZKJSyEH",
+            "vaultName": "vault"
+          },
+          "value": "dictionary",
+          "alias": "dictionary",
+          "position": {
+            "start": {
+              "line": 8,
+              "column": 5,
+              "offset": 67
+            },
+            "end": {
+              "line": 8,
+              "column": 19,
+              "offset": 81
+            },
+            "indent": []
+          },
+          "xvault": false,
+          "sameFile": false,
+          "to": {
+            "fname": "dictionary"
+          }
+        },
+        {
+          "type": "wiki",
+          "from": {
+            "fname": "root",
+            "id": "7x4DWqH12Y6dNpZKJSyEH",
+            "vaultName": "vault"
+          },
+          "value": "phonology-and-phonotactics",
+          "alias": "phonology-and-phonotactics",
+          "position": {
+            "start": {
+              "line": 10,
+              "column": 5,
+              "offset": 87
+            },
+            "end": {
+              "line": 10,
+              "column": 35,
+              "offset": 117
+            },
+            "indent": []
+          },
+          "xvault": false,
+          "sameFile": false,
+          "to": {
+            "fname": "phonology-and-phonotactics"
+          }
+        }
+      ],
+      "anchors": {
+        "grammar": {
+          "type": "header",
+          "text": "grammar",
+          "value": "grammar",
+          "line": 12,
+          "column": 0,
+          "depth": 3
+        },
+        "dictionary": {
+          "type": "header",
+          "text": "dictionary",
+          "value": "dictionary",
+          "line": 14,
+          "column": 0,
+          "depth": 3
+        },
+        "phonology-and-phonotactics": {
+          "type": "header",
+          "text": "phonology-and-phonotactics",
+          "value": "phonology-and-phonotactics",
+          "line": 16,
+          "column": 0,
+          "depth": 3
+        }
+      },
+      "children": [
+        "fw3wnN8HzB0WI2ZBQ4Rdr",
+        "vFuUGBQdqMq0TLu44Kj0W",
+        "0cNyiyRxRIXqhbZ0DFUDa"
+      ],
+      "parent": null,
+      "data": {},
+      "body": "\nfuckinnnnn uhg idk-\n\nmia retva retum Kanubi\n\n### [[grammar]]\n\n### [[dictionary]]\n\n### [[phonology-and-phonotactics]]\n"
+    }
+  ],
+  "noteIndex": {
+    "id": "7x4DWqH12Y6dNpZKJSyEH",
+    "title": "ret kanubi",
+    "desc": "",
+    "updated": 1644829216140,
+    "created": 1644808011856,
+    "custom": {
+      "nav_order": 0,
+      "permalink": "/"
+    },
+    "fname": "root",
+    "type": "note",
+    "vault": {
+      "fsPath": "vault"
+    },
+    "contentHash": "6cb49ffe43cb2725c13f19a6fa372de6",
+    "links": [
+      {
+        "type": "wiki",
+        "from": {
+          "fname": "root",
+          "id": "7x4DWqH12Y6dNpZKJSyEH",
+          "vaultName": "vault"
+        },
+        "value": "grammar",
+        "alias": "grammar",
+        "position": {
+          "start": {
+            "line": 6,
+            "column": 5,
+            "offset": 50
+          },
+          "end": {
+            "line": 6,
+            "column": 16,
+            "offset": 61
+          },
+          "indent": []
+        },
+        "xvault": false,
+        "sameFile": false,
+        "to": {
+          "fname": "grammar"
+        }
+      },
+      {
+        "type": "wiki",
+        "from": {
+          "fname": "root",
+          "id": "7x4DWqH12Y6dNpZKJSyEH",
+          "vaultName": "vault"
+        },
+        "value": "dictionary",
+        "alias": "dictionary",
+        "position": {
+          "start": {
+            "line": 8,
+            "column": 5,
+            "offset": 67
+          },
+          "end": {
+            "line": 8,
+            "column": 19,
+            "offset": 81
+          },
+          "indent": []
+        },
+        "xvault": false,
+        "sameFile": false,
+        "to": {
+          "fname": "dictionary"
+        }
+      },
+      {
+        "type": "wiki",
+        "from": {
+          "fname": "root",
+          "id": "7x4DWqH12Y6dNpZKJSyEH",
+          "vaultName": "vault"
+        },
+        "value": "phonology-and-phonotactics",
+        "alias": "phonology-and-phonotactics",
+        "position": {
+          "start": {
+            "line": 10,
+            "column": 5,
+            "offset": 87
+          },
+          "end": {
+            "line": 10,
+            "column": 35,
+            "offset": 117
+          },
+          "indent": []
+        },
+        "xvault": false,
+        "sameFile": false,
+        "to": {
+          "fname": "phonology-and-phonotactics"
+        }
+      }
+    ],
+    "anchors": {
+      "grammar": {
+        "type": "header",
+        "text": "grammar",
+        "value": "grammar",
+        "line": 12,
+        "column": 0,
+        "depth": 3
+      },
+      "dictionary": {
+        "type": "header",
+        "text": "dictionary",
+        "value": "dictionary",
+        "line": 14,
+        "column": 0,
+        "depth": 3
+      },
+      "phonology-and-phonotactics": {
+        "type": "header",
+        "text": "phonology-and-phonotactics",
+        "value": "phonology-and-phonotactics",
+        "line": 16,
+        "column": 0,
+        "depth": 3
+      }
+    },
+    "children": [
+      "fw3wnN8HzB0WI2ZBQ4Rdr",
+      "vFuUGBQdqMq0TLu44Kj0W",
+      "0cNyiyRxRIXqhbZ0DFUDa"
+    ],
+    "parent": null,
+    "data": {},
+    "body": "\nfuckinnnnn uhg idk-\n\nmia retva retum Kanubi\n\n### [[grammar]]\n\n### [[dictionary]]\n\n### [[phonology-and-phonotactics]]\n"
+  },
+  "vaults": [
+    {
+      "fsPath": "vault"
+    }
+  ]
+}
