@@ -2,7 +2,7 @@
 id: vFuUGBQdqMq0TLu44Kj0W
 title: Grammar
 desc: ''
-updated: 1644865729514
+updated: 1644865813602
 created: 1644815749622
 ---
 
@@ -18,6 +18,6 @@ because reta Kanubi uses content words that can be used in multiple contexts as 
 suffixes for for nominative and accusative and verb and prepositional phrase  
 if the word already ends with that sound then it is replaced with the second sound. for example, kisa in the nominative case becomes kisata, or 
 - nominative: a, ta
-- accusative, e, ev
+- accusative, ev, eva
 - verb: i, si
 - preposition: ec, eca
