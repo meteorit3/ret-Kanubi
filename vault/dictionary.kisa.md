@@ -2,15 +2,15 @@
 id: KufrdCrrVh4qHTEblTuQi
 title: Kisa
 desc: ''
-updated: 1644867619590
+updated: 1644867749668
 created: 1644861034380
 ---
 
-[ kis ]<br>
+[ ki.sa ]<br>
 *content*
 
 kity cat kitty cute cat purr  
->mio kiso retev Kanubi reti
+>mio kisato retev Kanubi reti
 
 <span style="color:gray">Finnish<br>*kissa* 'cat'</span>
 
