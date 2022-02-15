@@ -2,7 +2,7 @@
 id: vFuUGBQdqMq0TLu44Kj0W
 title: Grammar
 desc: ''
-updated: 1644883409553
+updated: 1644885702207
 created: 1644815749622
 ---
 
@@ -19,6 +19,6 @@ suffixes for for nominative and accusative and verb and prepositional phrase
 if the word already ends with that sound then it is replaced with the second sound. for example, kisa in the nominative case becomes kisao
 two vowels next to each other get shortened to a diphthong. if that diphthong is illegal, they are seperated by a glottal stop. for example, kisa in the accusative case becomes kisawev
 
-| nominative | accusative | predicate | preposition |
-|------------|------------|-----------|-------------|
-| o, to      | ev, eva    | i, si     | ec, eca     |
+| nominative | adjective | accusative | predicate | preposition |
+|------------|-----------|------------|-----------|-------------|
+| no suffix  | o, to     | ev, eva    | i, si     | ec, eca     |
