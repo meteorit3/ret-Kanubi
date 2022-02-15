@@ -2,7 +2,7 @@
 id: rst1iFzucQ0yhbgsRdJVd
 title: Gualberto
 desc: ''
-updated: 1644872081765
+updated: 1644879332306
 created: 1644868414870
 ---
 
@@ -10,7 +10,6 @@ created: 1644868414870
 *content*
 
 mustache
->mio gualbertoi "i grow a mustache"
 
 <span style="color:gray">Twitter<br>*Gualberto* Mexican Waluigi</span>
 

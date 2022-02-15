@@ -8,7 +8,7 @@ created: 1644815593550
 - [[dictionary.gualberto]]: mustache
 - [[dictionary.Kanubi]]: relating to or of the language *ret Kanubi* 
 - [[dictionary.kisa]]: kitty cat kity gat
-- [[dictionary.ina]]: little
+- [[dictionary.tet]]: little
 - [[dictionary.mi]]: first person pronoun, ownership marker
 - [[dictionary.ret]]: speech, language
 - [[dictionary.thirdpersonpronoun]]: of course you have hair-object blue pronoun-object
