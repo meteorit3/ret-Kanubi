@@ -2,7 +2,7 @@
 id: 0cNyiyRxRIXqhbZ0DFUDa
 title: Phonology and Phonotactics
 desc: ''
-updated: 1644883409555
+updated: 1644886041651
 created: 1644827946699
 ---
 
@@ -24,6 +24,6 @@ created: 1644827946699
 | open  | a , a |       |
 
 #### consonant structure
-(C)V(C)
+(C)(S)V(C)
 
 #### phonotactics

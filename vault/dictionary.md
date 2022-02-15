@@ -2,9 +2,12 @@
 id: fw3wnN8HzB0WI2ZBQ4Rdr
 title: Dictionary
 desc: ''
-updated: 1644885994789
+updated: 1644886250377
 created: 1644815593550
 ---
+[[dictionary.template]]
+
+- [[dictionary.bru]]: person
 - [[dictionary.gualberto]]: mustache
 - [[dictionary.Kanubi]]: relating to or of the language *ret Kanubi* 
 - [[dictionary.kisa]]: kitty cat kity gat
